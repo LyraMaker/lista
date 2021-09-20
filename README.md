@@ -8,7 +8,7 @@ Esse projeto tem como objetivo **elaborar uma solução em PHP que permita criar
   * HTML/CSS/javaScript
   * PHP
   * Sqlite
-  * Tailwind CSS
+  * Bulma.io
   * Git
   * ADS - Para monetizar
 
